@@ -7,6 +7,6 @@
 - 📫 联系方式: [wanghan9423@outlook.com](mailto://wanghan9423@outlook.com)
 - ⚡ 爱好:  代码，动漫，和崩坏
 - 🍖 崩坏3超级粉丝
-<img align="right" width="350px" src="https://uploadstatic.mihoyo.com/contentweb/20191106/2019110617294672250.png"/> 
+<img align="right" width="280px" src="https://uploadstatic.mihoyo.com/contentweb/20191105/2019110517054540325.png"/> 
 
 ![my github stats](https://github-readme-stats.vercel.app/api?username=sewerganger&show_icons=true&hide_border=true)
