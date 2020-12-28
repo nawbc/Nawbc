@@ -2,8 +2,7 @@
 
 
 - 🔭 目前正在开发一款内购项目 [局域网.文件.更多(lan.file.more)](https://github.com/lan-file-more/dev-progress)
-- 🌱 我正才学习 c++(win32) node-addon-api 用于开发一款windows应用
-- 👯 目前正在准备一个大计划
+- 🌱 我正才学习 c++(win32) node-addon-api 用于开发一款windows应用, 为此我将花费2年时间去打磨这个平台
 - 📫 联系方式: [wanghan9423@outlook.com](mailto://wanghan9423@outlook.com)
 - ⚡ 爱好:  代码，动漫，和崩坏
 - 🍖 崩坏3超级粉丝
