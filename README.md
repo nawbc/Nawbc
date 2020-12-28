@@ -1,1 +1,1 @@
-<img src="79722004_p0.jpg"/>
+<img width="300px" src="81020750_p0-removebg-preview"/>
