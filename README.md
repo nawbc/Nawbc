@@ -11,6 +11,6 @@
 <br />
 <br />
 
-<img align="right" width="220px" src="59332540_p0 (6).jpg"/>
-<img align="right" width="250px" src="59332540_p0 (4).jpg"/>
+<img align="center" src="19849729_p0.jpg"/>
+
 
