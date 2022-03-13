@@ -1,4 +1,4 @@
-<a href="https://deskbtm.com">
+<a href="https://deskbtm.com" target="_blank">
   <img src="Artboard.png" />
 </a>
 
