@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://deskbtm.com" target="_blank">
-  <img src="fuckit.svg"  width="600"/>
+  <img src="fuckit.svg"  width="500"/>
 </a>
 </div>
 <br />
