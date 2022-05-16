@@ -10,4 +10,4 @@
   <img src="https://raw.githubusercontent.com/Nawbc/Nawbc/output/github-contribution-grid-snake.svg"/>
 </div>
 
-Working for my personal studio [deskbtm](https://www.deskbtm.com/?lng=en-US) 
+Working for my personal studio [deskbtm](https://www.deskbtm.com) 
