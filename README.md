@@ -2,7 +2,7 @@ Hi, I'm Han 👋😋🤚 .
 
 Of course, also can call my Chinese name: **涵ker**.
 
-I'm working for my personal studio [deskbtm](https://www.deskbtm.com).
+I'm working for my indie studio [deskbtm](https://www.deskbtm.com).
 
 
 
