@@ -8,7 +8,7 @@ I'm working for my indie studio [deskbtm](https://www.deskbtm.com).
 
 <div align="center">
 <a href="https://deskbtm.com" target="_blank">
-  <img src="banner1.svg"  width="500"/>
+  <img src="banner2.svg"  width="500"/>
 </a>
 </div>
 
