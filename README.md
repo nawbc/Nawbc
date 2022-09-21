@@ -1,6 +1,6 @@
 Hi, I'm Han 👋😋🤚 .
 
-Of course, also can call my Chinese name: **涵ker/Hanker**.
+Of course, you can also call me by my nickname: **涵ker/Hanker**.
 
 I'm working for my indie studio [deskbtm](https://www.deskbtm.com).
 
