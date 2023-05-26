@@ -16,7 +16,7 @@ Projects:
 
 - <img width="20" src="https://user-images.githubusercontent.com/45007226/241122184-aa87ecad-9b9f-4fa4-aaa2-5ade6de1c45b.png"> [VSDroid](https://github.com/nawbc/vs_droid) (WIP) [FOSS] - Visual Studio Code for Android.
 
-- <img width="20" src="https://user-images.githubusercontent.com/45007226/241122007-38223bee-722d-4d26-abbd-5c031b795e86.svg"> [Aqua](https://github.com/deskbtm/aqua) (Archived) [FOSS] - An elegant file manager developed power by Flutter.
+- <img width="20" src="https://user-images.githubusercontent.com/45007226/241122007-38223bee-722d-4d26-abbd-5c031b795e86.svg"> [Aqua](https://github.com/deskbtm/aqua) (Archived) [FOSS] - An elegant file manager power by Flutter.
 
 - [win32-ffi](https://github.com/deskbtm/win32-ffi) [OSS] - Win32 api binding for js/ts by node-ffi.
 
