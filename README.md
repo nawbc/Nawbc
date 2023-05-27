@@ -22,10 +22,9 @@ Projects:
 
 🪦 Tomb:
 
-- <img width="20" src="https://user-images.githubusercontent.com/45007226/241122007-38223bee-722d-4d26-abbd-5c031b795e86.svg"> [Aqua](https://github.com/deskbtm/aqua) (Archived) [FOSS] - An elegant file manager developed power by Flutter.
+- <img width="20" src="https://user-images.githubusercontent.com/45007226/241122007-38223bee-722d-4d26-abbd-5c031b795e86.svg"> [Aqua](https://github.com/deskbtm/aqua) (Archived) [FOSS] - An elegant file manager power by Flutter.
 
 - <img width="20" src="https://user-images.githubusercontent.com/45007226/222353001-228d9d09-5984-4c35-8ff7-7783847c7df2.png"> [nitmgpt](https://github.com/deskbtm/nitmgpt) (Archived) [FOSS] - Notification-in-the-middle. Filter ads or spam notifications via ChatGPT.
-
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Nawbc/Nawbc/output/github-contribution-grid-snake.svg"/>
