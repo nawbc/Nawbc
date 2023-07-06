@@ -14,7 +14,7 @@ Projects:
 
 - <img width="20" src="https://user-images.githubusercontent.com/45007226/241122184-aa87ecad-9b9f-4fa4-aaa2-5ade6de1c45b.png"> [VSDroid](https://github.com/nawbc/vs_droid) (WIP) [FOSS] - Visual Studio Code for Android. Translation project on hold due to Flutter bug.
 
-- [win32-ffi](https://github.com/deskbtm/win32-ffi) [OSS] - Win32 api binding for js/ts by node-ffi.
+- [win32-ffi](https://github.com/deskbtm/win32-ffi) [OSS] - Win32 API binding for NodeJS.
 
 - [android-adb-wlan](https://marketplace.visualstudio.com/items?itemName=HanWang.android-adb-wlan) [OSS] - A vscode extension for android wireless debugging.
 
