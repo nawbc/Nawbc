@@ -9,7 +9,7 @@ I'm working for my indie studio <a href="https://deskbtm.com" target="_blank">
 🤯 Projects:
 
 - <img width="20" src="https://github.com/deskbtm-plugkit/plugkit/raw/main/app/src-tauri/icons/Square310x310Logo.png"> [PlugKit](https://github.com/deskbtm-plugkit/PlugKit) (WIP) [SAS] - A Plug-In System.
-- <a href="https://github.com/indiebase/indiebase" target="_blank"><img width="100" src="https://user-images.githubusercontent.com/45007226/248169681-963ed527-c796-4698-b3ad-c58f5721f3e0.svg"></a> (WIP) [community version OSS] - A self-hosting platform explicitly designed for indie developers. Provides financial services, BaaS.
+- <a href="https://github.com/indiebase/indiebase" target="_blank"><img width="100" src="https://user-images.githubusercontent.com/45007226/248169681-963ed527-c796-4698-b3ad-c58f5721f3e0.svg"></a> (WIP) [community version OSS] - A self-hosted platform explicitly designed for indie developers or teams. Providing financial services and BaaS.
 - <img width="20" src="https://user-images.githubusercontent.com/45007226/241121818-1a738a56-f0c5-46bc-a05e-0c3ad56d2326.png"> [Nawb](https://github.com/NawbExplorer/Nawb) (POC) - Another portal to connect the world.
 
 - <img width="20" src="https://user-images.githubusercontent.com/45007226/241122184-aa87ecad-9b9f-4fa4-aaa2-5ade6de1c45b.png"> [VSDroid](https://github.com/nawbc/vs_droid) (WIP) [FOSS] - Visual Studio Code for Android. Translation project on hold due to Flutter bug.
