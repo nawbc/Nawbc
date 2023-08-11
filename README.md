@@ -1,6 +1,4 @@
-Hi, I'm Han 👋😋.
-
-Of course, you can also call me by my nickname: **涵 ker/Hanker**.
+Hi, I'm Han 👋.
 
 I'm working for my indie studio <a href="https://deskbtm.com" target="_blank">
 <img width="20" src="https://user-images.githubusercontent.com/45007226/241109552-986f122e-6334-4752-a019-7b9de9b7cb2e.svg">
