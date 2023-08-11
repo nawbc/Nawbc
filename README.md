@@ -8,7 +8,7 @@ I'm working for my indie studio <a href="https://deskbtm.com" target="_blank">
 
 <table>
   <tbody>
-    <tr><th colspan="5"> 🤯 Projects </th></tr>
+    <tr><th align="left" colspan="5"> 🤯 Projects </th></tr>
     <tr>
       <td >
           <a href="https://github.com/deskbtm-plugkit/PlugKit" target="_blank"><img width="20" src="https://github.com/deskbtm-plugkit/plugkit/raw/main/app/src-tauri/icons/Square310x310Logo.png" align="center" alt="PlugKit" /> PlugKit </a>
@@ -51,7 +51,7 @@ I'm working for my indie studio <a href="https://deskbtm.com" target="_blank">
     </tr>
     <tr>
       <td >
-        <a href="https://github.com/deskbtm/colorful-monorepo" target="_blank">Colorful Monorepo</a>
+        <a href="https://github.com/deskbtm/colorful-monorepo" target="_blank"><sub>Colorful Monorepo</sub></a>
       </td>
       <td>Active</td>
       <td>FOSS</td>
@@ -62,7 +62,7 @@ I'm working for my indie studio <a href="https://deskbtm.com" target="_blank">
 
 <table>
  <tbody>
-  <tr><th colspan="5"> 🪦 Tomb </th></tr>
+  <tr><th align="left" colspan="5"> 🪦 Tomb </th></tr>
   <tr>
     <td >
       <a href="https://github.com/deskbtm/aqua" target="_blank"><img width="20" src="https://user-images.githubusercontent.com/45007226/241122007-38223bee-722d-4d26-abbd-5c031b795e86.svg" align="center" alt="Aqua" /> Aqua </a>
@@ -83,7 +83,7 @@ I'm working for my indie studio <a href="https://deskbtm.com" target="_blank">
 </table>
 
 <table><tbody>
-    <tr><th colspan="5"> 🖼️ Libraries </th></tr>
+    <tr><th align="left" colspan="5"> 🖼️ Libraries </th></tr>
   <tr>
     <td >
       <a href="https://github.com/deskbtm/win32-ffi" target="_blank"> win32-ffi </a>
@@ -99,7 +99,7 @@ I'm working for my indie studio <a href="https://deskbtm.com" target="_blank">
 </tbody></table>
 
 <table><tbody>
-  <tr><th colspan="5"> 💖 Contributions </th></tr>
+  <tr><th align="left" colspan="5"> 💖 Contributions </th></tr>
   <td >
     <a href="https://github.com/midwayjs/midway" target="_blank"> midwayjs </a>
   </td>
