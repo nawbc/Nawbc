@@ -30,7 +30,7 @@ I'm working for my indie studio <a href="https://deskbtm.com" target="_blank">
         <a href="https://github.com/NawbExplorer/Nawb" target="_blank"><img width="20" src="https://user-images.githubusercontent.com/45007226/241121818-1a738a56-f0c5-46bc-a05e-0c3ad56d2326.png" align="center" alt="PlugKit" /> Nawb </a>
       </td>
       <td>POC</td>
-      <td></td>
+      <td>-</td>
       <td>Another portal to connect the world.</td>
     </tr>
     <tr>
