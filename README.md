@@ -43,7 +43,7 @@ Hi, I'm Han 👋. I'm working for my indie studio <a href="https://deskbtm.com" 
       </td>
       <td>Active</td>
       <td>FOSS</td>
-      <td>A VSCode extension for android wireless debugging.</td>
+      <td>A VSCode extension for Android wireless debugging.</td>
     </tr>
     <tr>
       <td >
