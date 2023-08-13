@@ -53,30 +53,26 @@ Hi, I'm Han 👋. I'm working for my indie studio <a href="https://deskbtm.com" 
       <td>FOSS</td>
       <td>A VSCode extension for monorepo projects.</td>
     </tr>
+    <tr><th align="left" colspan="5"> 🪦 Tomb </th></tr>
+    <tr>
+      <td >
+        <a href="https://github.com/deskbtm/aqua" target="_blank"><img width="20" src="https://user-images.githubusercontent.com/45007226/241122007-38223bee-722d-4d26-abbd-5c031b795e86.svg" align="center" alt="Aqua" /> Aqua </a>
+      </td>
+      <td>Active</td>
+      <td>FOSS</td>
+      <td>An elegant file manager power by Flutter.</td>
+    </tr>
+    <tr>
+      <td >
+        <a href="https://github.com/deskbtm/nitmgpt" target="_blank"><img width="20" src="https://user-images.githubusercontent.com/45007226/222353001-228d9d09-5984-4c35-8ff7-7783847c7df2.png" align="center" alt="nitmgpt" /> nitmgpt </a>
+      </td>
+      <td>Active</td>
+      <td>FOSS</td>
+      <td>Notification-in-the-middle. Filter ads or spam notifications via ChatGPT.</td>
+    </tr>
   </tbody>
 </table>
 
-<table>
- <tbody>
-  <tr><th align="left" colspan="5"> 🪦 Tomb </th></tr>
-  <tr>
-    <td >
-      <a href="https://github.com/deskbtm/aqua" target="_blank"><img width="20" src="https://user-images.githubusercontent.com/45007226/241122007-38223bee-722d-4d26-abbd-5c031b795e86.svg" align="center" alt="Aqua" /> Aqua </a>
-    </td>
-    <td>Active</td>
-    <td>FOSS</td>
-    <td>An elegant file manager power by Flutter.</td>
-  </tr>
-  <tr>
-    <td >
-      <a href="https://github.com/deskbtm/nitmgpt" target="_blank"><img width="20" src="https://user-images.githubusercontent.com/45007226/222353001-228d9d09-5984-4c35-8ff7-7783847c7df2.png" align="center" alt="nitmgpt" /> nitmgpt </a>
-    </td>
-    <td>Active</td>
-    <td>FOSS</td>
-    <td>Notification-in-the-middle. Filter ads or spam notifications via ChatGPT.</td>
-  </tr>
- </tbody>
-</table>
 
 <table><tbody>
     <tr><th align="left" colspan="5"> 🖼️ Libraries </th></tr>
