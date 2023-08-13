@@ -104,6 +104,8 @@ Hi, I'm Han 👋. I'm working for my indie studio <a href="https://deskbtm.com" 
   </td>
 </tbody></table>
 
+Enjoy ! 🖖
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/Nawbc/Nawbc/output/github-contribution-grid-snake.svg"/>
 </div>
