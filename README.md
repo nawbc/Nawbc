@@ -83,10 +83,17 @@ Hi, I'm Han 👋. I'm working for my indie studio <a href="https://deskbtm.com" 
     </td>
     <td >
       <a href="https://github.com/nawbc/passport-paseto" target="_blank"> passport-paseto </a>
+      passport-jwt successor
     </td>
     <td >
       <a href="https://github.com/nawbc/nest-stoplight-elements" target="_blank"> nest-stoplight-element </a>
+      A OpenAPI gui for Nestjs
     </td>
+    <td >
+      <a href="https://github.com/nawbc/capacitor-tauri" target="_blank"> capacitor-tauri </a>
+      Capacitor community support for the Tauri platform.
+    </td>
+    
   </tr>
 </tbody></table>
 
