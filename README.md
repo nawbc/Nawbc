@@ -91,7 +91,7 @@ Hi, I'm Han 👋. I'm working for my indie studio <a href="https://deskbtm.com" 
     </td>
     <td >
       <a href="https://github.com/nawbc/capacitor-tauri" target="_blank"> capacitor-tauri </a>
-      Capacitor community support for the Tauri platform.
+      Capacitor support for the Tauri platform.
     </td>
     
   </tr>
