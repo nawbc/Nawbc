@@ -114,6 +114,6 @@ Hi, I'm Han 👋. [![X (formerly Twitter) Follow](https://img.shields.io/twitter
 
 Enjoy ! 🖖
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/Nawbc/Nawbc/output/github-contribution-grid-snake.svg"/>
-</div>
+</div> -->
