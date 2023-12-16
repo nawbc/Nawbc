@@ -1,4 +1,4 @@
-Hi, I'm Han 👋. developer + designer. I'm working for my indie studio <a href="https://deskbtm.com" target="_blank">
+Hi, I'm Han 👋. [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/deskbtm?style=social)](https://twitter.com/intent/follow?screen_name=deskbtm) developer + designer. I'm working for my indie studio <a href="https://deskbtm.com" target="_blank">
 <img width="20" src="https://user-images.githubusercontent.com/45007226/241109552-986f122e-6334-4752-a019-7b9de9b7cb2e.svg">
 </a> [deskbtm](https://www.deskbtm.com/en).
 
