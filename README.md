@@ -2,6 +2,8 @@ Hi, I'm Han 👋. developer + designer. I'm working for my indie studio <a href=
 <img width="20" src="https://user-images.githubusercontent.com/45007226/241109552-986f122e-6334-4752-a019-7b9de9b7cb2e.svg">
 </a> [deskbtm](https://www.deskbtm.com/en).
 
+<img width="100%" src="https://github.com/nawbc/assets/assets/45007226/c423548f-8b4d-4c84-a1af-5686317ecc49">
+
 <table>
   <tbody>
     <tr><th align="left" colspan="5"> 🤯 Projects </th></tr>
