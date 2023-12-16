@@ -102,6 +102,9 @@ Hi, I'm Han 👋. developer + designer. I'm working for my indie studio <a href=
 <table><tbody>
   <tr><th align="left" colspan="5"> 💖 Contributions </th></tr>
   <td >
+    <a href="https://github.com/toeverything/blocksuite" target="_blank"> blocksuite </a>
+  </td>  
+  <td >
     <a href="https://github.com/midwayjs/midway" target="_blank"> midwayjs </a>
   </td>
   <td >
