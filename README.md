@@ -89,7 +89,7 @@ Hi, I'm Han 👋. [![X (formerly Twitter) Follow](https://img.shields.io/twitter
     </td>
     <td >
       <a href="https://github.com/nawbc/nest-stoplight-elements" target="_blank"> nest-stoplight-element </a>
-      A OpenAPI gui for Nestjs
+      OpenAPI GUI for Nestjs
     </td>
     <td >
       <a href="https://github.com/nawbc/capacitor-tauri" target="_blank"> capacitor-tauri </a>
