@@ -95,6 +95,11 @@ Hi, I'm Han 👋. [![X (formerly Twitter) Follow](https://img.shields.io/twitter
       <a href="https://github.com/nawbc/capacitor-tauri" target="_blank"> capacitor-tauri </a>
       Capacitor support for the Tauri platform.
     </td>
+    <td >
+      <a href="https://github.com/nawbc/dev-mkcert" target="_blank"> dev-mkcert </a>
+      Provide HTTPS for local development.
+    </td>
+    
     
   </tr>
 </tbody></table>
