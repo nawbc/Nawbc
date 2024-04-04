@@ -1,8 +1,8 @@
 Hi, I'm Han 👋. [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/deskbtm?style=social)](https://twitter.com/intent/follow?screen_name=deskbtm) developer + designer. I'm working for my indie studio <a href="https://deskbtm.com" target="_blank">
-<img width="20" src="https://github.com/deskbtm/.github/assets/45007226/d369d5bc-4861-45d2-8a83-3d65a834c3fa">
+<img width="20" src="https://user-images.githubusercontent.com/45007226/241109552-986f122e-6334-4752-a019-7b9de9b7cb2e.svg">
 </a> [deskbtm](https://www.deskbtm.com/en).
 
-<img width="100%" src="https://github.com/nawbc/assets/assets/45007226/c6ed812c-c024-4fb7-bb85-c3541358453e">
+<img width="100%" src="https://github.com/deskbtm/.github/assets/45007226/d369d5bc-4861-45d2-8a83-3d65a834c3fa">
 
 <table>
   <tbody>
