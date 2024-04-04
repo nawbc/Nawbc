@@ -2,7 +2,7 @@ Hi, I'm Han 👋. [![X (formerly Twitter) Follow](https://img.shields.io/twitter
 <img width="20" src="https://user-images.githubusercontent.com/45007226/241109552-986f122e-6334-4752-a019-7b9de9b7cb2e.svg">
 </a> [deskbtm](https://www.deskbtm.com/en).
 
-<img width="100%" src="https://github.com/deskbtm/.github/assets/45007226/174b3778-4802-4303-b1cb-64aacf9c2779">
+<img width="100%" src="https://github.com/deskbtm/.github/assets/45007226/355ee593-8c91-45d7-8a8e-a0f09db9450b">
 
 <table>
   <tbody>
