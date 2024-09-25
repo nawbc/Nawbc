@@ -20,7 +20,7 @@ Hi, I'm Han 👋. [![X (formerly Twitter) Follow](https://img.shields.io/twitter
         <a href="https://github.com/indiebase/indiebase" target="_blank"><img width="100" src="https://user-images.githubusercontent.com/45007226/248169681-963ed527-c796-4698-b3ad-c58f5721f3e0.svg" align="center" alt="PlugKit" /></a>
       </td>
       <td>WIP</td>
-      <td>Community OSS</td>
+      <td>Community OSS ver.</td>
       <td>A self-hosted platform explicitly designed for indie developers or teams. Providing financial services and BaaS.</td>
     </tr>
     <tr>
