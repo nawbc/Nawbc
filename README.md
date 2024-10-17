@@ -9,11 +9,11 @@ Hi, I'm Han 👋. [![X (formerly Twitter) Follow](https://img.shields.io/twitter
     <tr><th align="left" colspan="5"> 🤯 Projects </th></tr>
     <tr>
       <td >
-          <a href="https://github.com/deskbtm-plugkit/PlugKit" target="_blank"><img width="20" src="https://user-images.githubusercontent.com/45007226/260221529-91a55331-23ac-46bc-91d6-74128fb30e16.svg" align="center" alt="PlugKit" /> PlugKit </a>
+          <a href="https://github.com/deskbtm-plugkit/PlugKit" target="_blank"><img width="20" src="https://github.com/user-attachments/assets/310649b2-062d-45fe-bdc7-5b4e36d3356e" align="center" alt="Publish" /> Publish </a>
       </td>
       <td>WIP</td>
       <td>SAS</td>
-      <td>A Plug-In System.</td>
+      <td>Create once, Publish anywhere.</td>
     </tr>
     <tr>
       <td >
