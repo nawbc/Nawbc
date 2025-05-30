@@ -1,5 +1,5 @@
 Hi, I'm Han 👋. [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/deskbtm?style=social)](https://twitter.com/intent/follow?screen_name=deskbtm) developer + designer[![Dribbble (formerly Dribbble) Follow](https://img.shields.io/badge/Dribbble_nawbc-_?style=social&logo=dribbble)](https://dribbble.com/nawbc). I'm working for my indie studio <a href="https://deskbtm.com" target="_blank">
-<img width="20" src="https://user-images.githubusercontent.com/45007226/241109552-986f122e-6334-4752-a019-7b9de9b7cb2e.svg">
+<img width="20" src="https://github.com/user-attachments/assets/6a768499-b866-4a36-80ef-540e62a2cf3c">
 </a> [deskbtm](https://www.deskbtm.com/en).
 
 <img width="100%" src="https://github.com/deskbtm/.github/assets/45007226/355ee593-8c91-45d7-8a8e-a0f09db9450b">
